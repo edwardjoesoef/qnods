@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on qnods</title>
-    <link>https://qnods.com/projects/</link>
+    <link>https://edwardjoesoef.github.io/projects/</link>
     <description>Recent content in Projects on qnods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://qnods.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edwardjoesoef.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>qnods</title>
-      <link>https://qnods.com/projects/20240416/</link>
+      <link>https://edwardjoesoef.github.io/projects/20240416/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://qnods.com/projects/20240416/</guid>
+      <guid>https://edwardjoesoef.github.io/projects/20240416/</guid>
       <description>Introducing qnods: A Personal Journey of Exploration</description>
     </item>
     <item>
       <title>EDWARD</title>
-      <link>https://qnods.com/projects/20240415/</link>
+      <link>https://edwardjoesoef.github.io/projects/20240415/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://qnods.com/projects/20240415/</guid>
+      <guid>https://edwardjoesoef.github.io/projects/20240415/</guid>
       <description>Welcome to EDWARD, your key to unlocking my professional journey and proudest achievements – explore the story behind the name, one click at a time.</description>
     </item>
   </channel>
