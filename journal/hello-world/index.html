@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>qnods</title>
+    <link rel="stylesheet" href="/css/output.css">
+    <script src="/js/custom.js"></script>
+</head>
+<body>
+    <div class="container mx-auto p-4">
+        <div class='container mx-auto pt-2 pl-2'>
+            <button 
+                class="border-2 p-2 border-black border-solid mr-2"
+                onclick="displayMenu(); displayCategory();" 
+            >qnods
+            </button>
+            <a 
+                id="homeButton" 
+                class="border-2 p-2 border-black border-solid mr-2"
+                style="display: none;"
+                href="/"
+            >home
+            </a>
+            <a
+                id="authorButton" 
+                class="border-2 p-2 border-black border-solid"
+                style="display: none;"
+                href="/author"
+            >author
+            </button>
+        </div>
+        
+        <div class='container mx-auto pt-4 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/projects"
+            >projects
+            </a>
+        </div>
+        <div class='container mx-auto pt-5 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/logs"
+            >logs
+            </a>
+        </div>
+        <div class='container mx-auto pt-5 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/journal"
+            >journal
+            </a>
+        </div>
+        
+    </div>
+
+<div class="container mx-auto p-4 grid sm:grid-cols-5 grid-cols-1 gap-4">
+  <div class="col-span-1">
+    <p class="text-sm font-bold mt-10">Published Date</p>
+    <p>15/04/2024</p>
+    <p class="text-sm font-bold mt-10">Tags</p>
+    <p>
+      
+      <a class="text-sm italic" href="https://qnods.com/tags/misc">misc</a>
+      
+    </p>
+  </div>
+  <div class="col-span-4">
+    <h1 class="text-5xl mb-2">Hello World</h1>
+    <div class="space-y-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>The first paragraph is placeholder, but this one is not. Initially this article is created to test my layout and some functionalities. After some thought, I think I will leave it here as it will be good marker for my future self on the date when I revive this blog. Hopefully this time round, qnods will be active for longer period than before. Finger cross ..</p>
+
+    </div>
+    
+    <h2 class="pt-20 pb-4 text-xl font-bold">Other Articles</h2>
+    <div class="container mx-auto grid sm:grid-cols-3 grid-cols-1 gap-4">
+      
+      
+       
+      
+         
+          
+        
+      
+    </div>
+
+    
+  </div>
+</div>
+
+
+
+<div class="container mx-auto p-4 pb-20"> 
+  
+</div>
+  
+
+
+    <footer class="fixed bottom-0 w-full bg-black text-white">
+        <div class="container mx-auto p-4 flex justify-center">
+            <p class="text-muted">Copyright © 2024 qnods</p>
+        </div>
+    </footer>
+</body>
+</html>

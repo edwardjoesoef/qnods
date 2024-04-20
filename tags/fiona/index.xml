@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiona on qnods</title>
+    <link>https://qnods.com/tags/fiona/</link>
+    <description>Recent content in Fiona on qnods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://qnods.com/tags/fiona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streamline Your Invoicing: A Sneak Peek into the Future with OpenAI-Powered Messaging</title>
+      <link>https://qnods.com/logs/20240420/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://qnods.com/logs/20240420/</guid>
+      <description>Dreaming up an AI-powered app to create invoices from messages, powered by OpenAI&amp;rsquo;s wizardry. Get ready to simplify invoicing like never before!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>qnods</title>
+    <link rel="stylesheet" href="/css/output.css">
+    <script src="/js/custom.js"></script>
+</head>
+<body>
+    <div class="container mx-auto p-4">
+        <div class='container mx-auto pt-2 pl-2'>
+            <button 
+                class="border-2 p-2 border-black border-solid mr-2"
+                onclick="displayMenu(); displayCategory();" 
+            >qnods
+            </button>
+            <a 
+                id="homeButton" 
+                class="border-2 p-2 border-black border-solid mr-2"
+                style="display: none;"
+                href="/"
+            >home
+            </a>
+            <a
+                id="authorButton" 
+                class="border-2 p-2 border-black border-solid"
+                style="display: none;"
+                href="/author"
+            >author
+            </button>
+        </div>
+        
+        <div class='container mx-auto pt-4 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/projects"
+            >projects
+            </a>
+        </div>
+        <div class='container mx-auto pt-5 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/logs"
+            >logs
+            </a>
+        </div>
+        <div class='container mx-auto pt-5 pl-2 hiddenSection' style="display: none;">
+            <a 
+                class="border-2 p-2 border-black border-solid"
+                href="/journal"
+            >journal
+            </a>
+        </div>
+        
+    </div>
+
+<div class="container mx-auto px-4 md:w-1/2 md:mx-auto">
+    <h1 class="text-3xl font-bold">Author</h1>
+    <div class="mt-8 space-y-4">
+        <p>Hey there! 👋</p>
+<p>Welcome to our cozy little corner of the internet! I&rsquo;m Edward , the captain of this ship and the sole author behind everything you see here at <strong>qnods</strong>. Yep, it&rsquo;s just me, navigating the vast sea of ideas and stories.</p>
+<p>But hey, who needs a crew when you&rsquo;ve got passion and creativity, right? While I may be flying solo, I assure you, the journey is no less exciting. So, if you&rsquo;re curious to learn more about the guy behind the keyboard, go ahead and hit that button below.</p>
+
+    </div>
+    <br>
+    <button class="p-2 border border-black border-2 border-solid">
+        Meet Edward
+    </button>
+</div>
+
+
+    <footer class="fixed bottom-0 w-full bg-black text-white">
+        <div class="container mx-auto p-4 flex justify-center">
+            <p class="text-muted">Copyright © 2024 qnods</p>
+        </div>
+    </footer>
+</body>
+</html>

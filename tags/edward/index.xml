@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward on qnods</title>
+    <link>https://qnods.com/tags/edward/</link>
+    <description>Recent content in Edward on qnods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://qnods.com/tags/edward/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Résumé Redux: Unveiling the Evolution</title>
+      <link>https://qnods.com/logs/20240418/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://qnods.com/logs/20240418/</guid>
+      <description>Embark on a journey through the digital epochs of my career with my revamped résumé.</description>
+    </item>
+    <item>
+      <title>EDWARD</title>
+      <link>https://qnods.com/projects/20240415/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://qnods.com/projects/20240415/</guid>
+      <description>Welcome to EDWARD, your key to unlocking my professional journey and proudest achievements – explore the story behind the name, one click at a time.</description>
+    </item>
+  </channel>
+</rss>
