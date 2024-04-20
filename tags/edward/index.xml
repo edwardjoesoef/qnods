@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edward on qnods</title>
-    <link>https://edwardjoesoef.github.io/tags/edward/</link>
+    <link>https://edwardjoesoef.github.io/qnods/tags/edward/</link>
     <description>Recent content in Edward on qnods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edwardjoesoef.github.io/tags/edward/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edwardjoesoef.github.io/qnods/tags/edward/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Résumé Redux: Unveiling the Evolution</title>
-      <link>https://edwardjoesoef.github.io/logs/20240418/</link>
+      <link>https://edwardjoesoef.github.io/qnods/logs/20240418/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://edwardjoesoef.github.io/logs/20240418/</guid>
+      <guid>https://edwardjoesoef.github.io/qnods/logs/20240418/</guid>
       <description>Embark on a journey through the digital epochs of my career with my revamped résumé.</description>
     </item>
     <item>
       <title>EDWARD</title>
-      <link>https://edwardjoesoef.github.io/projects/20240415/</link>
+      <link>https://edwardjoesoef.github.io/qnods/projects/20240415/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://edwardjoesoef.github.io/projects/20240415/</guid>
+      <guid>https://edwardjoesoef.github.io/qnods/projects/20240415/</guid>
       <description>Welcome to EDWARD, your key to unlocking my professional journey and proudest achievements – explore the story behind the name, one click at a time.</description>
     </item>
   </channel>
