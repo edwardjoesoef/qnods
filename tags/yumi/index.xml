@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yumi on qnods</title>
+    <link>https://qnods.com/tags/yumi/</link>
+    <description>Recent content in Yumi on qnods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://qnods.com/tags/yumi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridging Language Gaps: Meet Yumi, Your Personal English to Japanese Translator</title>
+      <link>https://qnods.com/logs/20240520/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://qnods.com/logs/20240520/</guid>
+      <description>Idea on Yumi, an app to effortlessly bridging language gaps with the power of OpenAI&amp;rsquo;s GPT-4o</description>
+    </item>
+  </channel>
+</rss>
